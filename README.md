@@ -12,7 +12,7 @@
     <li>🗺️ I like learning about different cultures and countries history.</li>
   </ul>
 
-  <h3>What I'm up to</h3>
+  <h3>What I'm up to:</h3>
   <ul>
     <li>Learning quantum physics.</li>
     <li>Developing an amazing app I will publish at the end of 2022. Stay tuned! 😉</li>
