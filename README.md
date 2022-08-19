@@ -14,7 +14,7 @@
 
   <h3>What I'm up to</h3>
   <ul>
-    <li>Working remotely as a Software Engineer for <a href="https://globaltask.net/">Global Task</a>.</li>
+    <li>Learning quantum physics.</li>
     <li>Developing an amazing app I will publish at the end of 2022. Stay tuned! 😉</li>
   </ul>
   </div>
