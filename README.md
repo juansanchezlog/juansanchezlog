@@ -59,9 +59,6 @@
       <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=juansanchezlog&repo=Furniss-BackEnd&border_color=329D8F&bg_color=00000000&title_color=C9D1D9&text_color=8B949E&icon_color=329D8F" />
     </a>
     <span>&nbsp;</span>
-    <a href="https://github.com/juansanchezlog/Furniss-FrontEnd">
-      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=juansanchezlog&repo=Furniss-FrontEnd&border_color=329D8F&bg_color=00000000&title_color=C9D1D9&text_color=8B949E&icon_color=329D8F" />
-    </a>
   </p>
 
   <br />
