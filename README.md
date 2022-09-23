@@ -1,4 +1,4 @@
-<h1>Hey I'm Juan, a software engineer 👨‍💻</h1>
+<h1>Hey I'm Juan 👨‍💻</h1>
 
 <div>
   <img alt="Me developing" align="right" href="https://github.com/juansanchezlog" src="./assets/programming.png" height=300>
