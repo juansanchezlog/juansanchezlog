@@ -5,7 +5,7 @@
 
   <h3>A bit about me...</h3>
   <ul>
-    <li>:electron: Software engineer in the JS ecosystem.</li>
+    <li>:electron: Engineer in the JS ecosystem.</li>
     <li>🌎 Love remote work.</li>
     <li>💡 Bachelor's Engineering Degree.</li>
     <li>🚶‍♂️ Outside of coding I like hiking and hangout with friends.</li>
