@@ -15,8 +15,10 @@
   <h3>What I'm up to:</h3>
   <ul>
     <li>Learning quantum physics.</li>
-    <li>Do you plan to build a product? Get in touch @juansanchezlog</li>
+    <li>Improving my skills</li>
   </ul>
+  
+  Do you plan to build a product? Get in touch @juansanchezlog
   </div>
 
   <h3>The arsenal</h3>
