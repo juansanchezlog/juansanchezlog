@@ -55,14 +55,6 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />
 
-  <h3>Public repositories:</h3>  
-  <p align="center">
-    <a href="https://github.com/juansanchezlog/Furniss-BackEnd">
-      <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=juansanchezlog&repo=Furniss-BackEnd&border_color=329D8F&bg_color=00000000&title_color=C9D1D9&text_color=8B949E&icon_color=329D8F" />
-    </a>
-    <span>&nbsp;</span>
-  </p>
-
   <br />
   <p align="center">Code with ❤️</p>
 </div>
